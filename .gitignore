@@ -1,0 +1,6 @@
+MNIST_data/
+logdir/
+__pycache__/
+.ipynb_checkpoints/
+.nbgrader.log/
+.nbgrader.log
